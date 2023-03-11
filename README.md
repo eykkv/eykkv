@@ -25,4 +25,3 @@
  > Atualmente colaboro com o projeto por meio de meus conhecimentos de mecânica para o desenvolvimento de um veículo off-road competitivo, tendo como objetivo se destacar entre as diversas equipes universitárias. Dentro da equipe, minhas colaborações são de: (i) nos projetos de telemetria, em que estou estudando novas formas que apresentem maior efeiciência de medição; (ii) nos projetos de suspensão e dinânica veicular, onde sou um dos responsáveis pelo projeto.
 ![](https://art.pixilart.com/75b07a771cf723f.gif)
 
-
